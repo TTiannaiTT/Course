@@ -6,15 +6,16 @@ This GitHub Repository contains my personal study notes, offering a comprehensiv
 ## Notice 
 All the study notes are divided by the course and inside the course folder, there may be two kinds of materials: *Summary* and *Note*. 
 
-*Summary* includes my conclusion of this course when I prepare for the final examination. (May )
++ *Summary* includes my conclusion of this course when I prepare for the final examination. (May dismiss some parts...)
 
-*Note* includes lesson notes I made when taking this course.
++ *Note* includes lesson notes I made when taking this course.
 
 ## Referfence
-*Here is a reference list of my academic performance on the related course:*
+Here is a reference list of my academic performance on the related course:
 
 #### Overview
-GPA： 3.84 / 4.0 (currently)
+GPA： 3.85 / 4.0; (currently)  
+Average score: 90.59 / 100; (currently)
 
 #### Representative Courses:
 
